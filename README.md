@@ -1,4 +1,4 @@
-# Zomsi Infotech Pvt Ltd Company Website
+# Zomsi Infotech Pvt Ltd Infotech Pvt Ltd Company Website
 
 ## Configuration
 
